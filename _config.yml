@@ -27,7 +27,7 @@ twitter_username: davidpricedev
 github_username:  davidpricedev
 
 # Build settings
-theme: jekyll-theme-merlot
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
